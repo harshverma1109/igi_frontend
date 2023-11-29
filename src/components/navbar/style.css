@@ -1,0 +1,11 @@
+Link:active{
+    color:#16a085 !important;
+}
+a:active{
+    color:#16a085 !important;
+}
+tr{
+    padding: 0px 5px 0px 5px;
+    border: 1px solid black;
+    cursor: pointer;
+}
